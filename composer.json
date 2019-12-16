@@ -3,6 +3,7 @@
     "description": "Spongebob Quotes Generator",
     "type": "library",
     "license": "MIT",
+    "minimum-stability": "stable",
     "authors": [
         {
             "name": "cacadosman",
