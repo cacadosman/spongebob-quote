@@ -1,0 +1,21 @@
+{
+    "name": "cacadosman/spongebob-quote",
+    "description": "Spongebob Quotes Generator",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "cacadosman",
+            "email": "wetmanz23@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit": "^8.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "SpongebobQuote\\\\": "src/"
+        }
+    }
+
+}
