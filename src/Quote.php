@@ -1,6 +1,6 @@
 <?php
 
-namespace SpongebobQuote\Quote;
+namespace SpongebobQuote;
 
 class Quote
 {
